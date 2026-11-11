@@ -6,9 +6,7 @@ The Bazaar 游戏内操作录像插件：自动记录操作、固定间隔回放
 
 ## 下载与安装
 
-[打开 GitHub 下载页](https://github.com/wjxkdym/BazaarReplay/releases/tag/v1.8.0-beta.2)
-
-完整源代码作为 `source.zip` 随 Release 提供；请阅读随包安装说明和验证范围。
+[GitHub 下载页](https://github.com/wjxkdym/BazaarReplay/releases/tag/v1.8.0-beta.2) · [百度网盘](https://pan.baidu.com/s/1HMajrnCdh_J94ILe8cROJg?pwd=k2k8)，提取码 **k2k8**，永久有效。两个渠道安装压缩包一致。
 
 - 普通用户下载 `BazaarReplay-1.8.0-beta.2-windows.zip`；源码在 `source.zip`。
 - 校验文件：`SHA256-1.8.0-beta.2.txt`。
@@ -34,3 +32,5 @@ The Bazaar 游戏内操作录像插件：自动记录操作、固定间隔回放
 - 不进入自动更新渠道。已知偶发退出崩溃、重复释放警告及一般化兼容审查仍待继续处理。
 
 本项目为非官方插件，与 The Bazaar 官方无隶属关系。安装包和源码包不包含私人录像、游戏资源、原始测试日志或账号令牌。
+
+完整源代码作为 source.zip 随 Release 提供。
