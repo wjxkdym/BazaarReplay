@@ -4,6 +4,8 @@
 
 [GitHub 正式版下载](https://github.com/wjxkdym/BazaarReplay/releases/tag/v1.0.0)
 
+[百度网盘正式版下载](https://pan.baidu.com/s/1rOw1MlgOkHMSGVTXHrNewA?pwd=7pu1) · 提取码：`7pu1`（永久有效）
+
 ## 安装
 
 适用 Windows Steam 版 The Bazaar **Build 26592248（1.0.13175）**，需要已安装 **BepInEx 5**。支持在该客户端播放通过兼容检查的 Build 25914521 旧录像。
